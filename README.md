@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shane2568
-- 👀 I’m interested in Game Developing
+- 🎮 一个做游戏的
 
 
 <!---
